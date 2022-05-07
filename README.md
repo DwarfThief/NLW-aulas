@@ -27,3 +27,9 @@
   - Criação de Components (Widget.tsx);
   - Explicação sobre estado;
   - Explicação breve sobre acessibilidade e aria;
+
+### [Aula 02:](https://github.com/DwarfThief/NLW-aulas/tree/master/aula-2)
+  - Estrutura do WidgetForm;
+  - Escolha de feedback;
+  - Comunicação entre componentes;
+  - Funcionalidade do Screenshot;
