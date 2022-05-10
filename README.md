@@ -33,3 +33,11 @@
   - Escolha de feedback;
   - Comunicação entre componentes;
   - Funcionalidade do Screenshot;
+
+### [Aula 03:](https://github.com/DwarfThief/NLW-aulas/tree/master/aula-2)
+  - Criação do servidor back-end
+  - Instalação do Express.js
+  - Instalação do Prisma e migrations
+  - Princípios SOLID
+  - Envio de e-mail
+  - Testes unitários do Jester
